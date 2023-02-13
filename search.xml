@@ -359,11 +359,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -390,11 +390,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -421,11 +421,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -452,11 +452,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -483,11 +483,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -514,11 +514,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -545,11 +545,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -576,11 +576,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -607,11 +607,11 @@
             
             <tag> stm32 </tag>
             
-            <tag> 单片机 </tag>
-            
             <tag> 嵌入式 </tag>
             
             <tag> c语言 </tag>
+            
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -654,11 +654,11 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<p>笔者将在这里记录笔者的生活<br>谢谢您的关注</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -670,6 +670,17 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>笔者将在这里记录笔者的生活<br>谢谢您的关注</p>]]></content>
       
     </entry>
     
@@ -709,33 +720,22 @@
     
     
     <entry>
-      <title>Wechat</title>
-      <link href="/info/wechat/index.html"/>
-      <url>/info/wechat/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>QQ</title>
       <link href="/info/qq/index.html"/>
       <url>/info/qq/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的qq">如有需要，可以注明原因，添加笔者的QQ:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/qq.png" alt="QQ"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Wechat</title>
+      <link href="/info/wechat/index.html"/>
+      <url>/info/wechat/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
       
     </entry>
     
