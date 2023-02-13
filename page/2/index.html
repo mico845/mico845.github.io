@@ -1,0 +1,547 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"><title>瑞奇的博客</title><meta name="author" content="瑞奇"><meta name="copyright" content="瑞奇"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="一个心怀浪漫的少年">
+<meta property="og:type" content="website">
+<meta property="og:title" content="瑞奇的博客">
+<meta property="og:url" content="https://rich-blog.cn/page/2/index.html">
+<meta property="og:site_name" content="瑞奇的博客">
+<meta property="og:description" content="一个心怀浪漫的少年">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://rich-blog.cn/assets/pearl.jpg">
+<meta property="article:author" content="瑞奇">
+<meta property="article:tag" content="C, C++, Python, 嵌入式">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://rich-blog.cn/assets/pearl.jpg"><link rel="shortcut icon" href="/img/panda.png"><link rel="canonical" href="https://rich-blog.cn/page/2/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":true,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简"},
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":230},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体","cht_to_chs":"你已切换为简体","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#49b1f5","bgDark":"#1f1f1f","position":"top-right"},
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  }
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '瑞奇的博客',
+  isPost: false,
+  isHome: true,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2023-02-13 17:51:41'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+    win.getCSS = url => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      link.onload = () => resolve()
+      link.onerror = () => reject()
+      document.head.appendChild(link)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          const now = new Date()
+          const hour = now.getHours()
+          const isNight = hour <= 6 || hour >= 18
+          if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+          else if (t === 'light') activateLightMode()
+          else activateDarkMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><meta name="generator" content="Hexo 6.3.0"><link href="https://cdn.bootcss.com/KaTeX/0.11.1/katex.min.css" rel="stylesheet" /></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/assets/pearl.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">23</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">10</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">5</div></a></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fa fa-heartbeat"></i><span> 列表</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/music/"><i class="fa-fw fas fa-music"></i><span> 音乐</span></a></li><li><a class="site-page child" href="/movies/"><i class="fa-fw fas fa-video"></i><span> 电影</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="page" id="body-wrap"><header class="full_page" id="page-header" style="background-image: url('/img/startnight.jpg')"><nav id="nav"><span id="blog-info"><a href="/" title="瑞奇的博客"><span class="site-name">瑞奇的博客</span></a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search" href="javascript:void(0);"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fa fa-heartbeat"></i><span> 列表</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/music/"><i class="fa-fw fas fa-music"></i><span> 音乐</span></a></li><li><a class="site-page child" href="/movies/"><i class="fa-fw fas fa-video"></i><span> 电影</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="site-info"><h1 id="site-title">瑞奇的博客</h1><div id="site-subtitle"><span id="subtitle"></span></div><div id="site_social_icons"><a class="social-icon" href="https://github.com/mico845" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:1120845871@qq.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="/info/wechat" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a></div></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts" id="recent-posts"><div class="recent-post-item"><div class="post_cover left"><a href="/2023/02/03/%E7%B1%BB-%E4%B8%AD-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%B8%83%E6%9C%9F/" title="类(中)——跟我一起从C到C++(第七期)"><img class="post-bg" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/cover/3.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="类(中)——跟我一起从C到C++(第七期)"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/02/03/%E7%B1%BB-%E4%B8%AD-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%B8%83%E6%9C%9F/" title="类(中)——跟我一起从C到C++(第七期)">类(中)——跟我一起从C到C++(第七期)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-02-03T06:39:19.000Z" title="发表于 2023-02-03 14:39:19">2023-02-03</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-02-13T09:14:20.527Z" title="更新于 2023-02-13 17:14:20">2023-02-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/">跟我一起从C到C++</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/c/">c++</a></span></div><div class="content">
+文章目录
+
+8 类
+
+8.4 访问控制与封装
+
+8.4.1 访问说明符
+8.4.2 使用class或struct
+8.4.3 友元
+
+
+8.5 类的其他特性
+
+8.5.1 类的成员再探
+
+8.5.1.1 定义一个类型成员
+8.5.1.2 inline成员函数
+8.5.1.3 重载成员函数
+8.5.1.4 可变数据成员
+8.5.1.5 类数据成员初始值
+8.5.1.6 返回*this的成员函数
+8.5.1.7 const成员函数再探
+
+8.5.1.7.1 const成员函数返回*this
+8.5.1.7.2 基于const的重载
+
+
+
+
+8.5.2 类类型
+
+8.5.2.1 类是类型
+8.5.2.2 类的声明
+
+
+8.5.3 友元再探
+
+8.5.3.1 类之间的友元
+8.5.3.2 函数重载和友元
+
+
+
+
+
+
+
+8 类
+承接类(上)——跟我一起从C到C++(第六期)
+8.4 访问控制与封装
+8.4.1 访问说明符
+目前为止，我们已经为类定义了接口，但好像还没有任何机制来强制用户使用这些接口，而不让使用别的不给用的部分。是的，我们的类还没有封装（没有隐藏类的实现细节），也就是说，用户可以 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/02/01/%E7%B1%BB-%E4%B8%8A-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E5%85%AD%E6%9C%9F/" title="类(上)——跟我一起从C到C++(第六期)"><img class="post-bg" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/cover/1.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="类(上)——跟我一起从C到C++(第六期)"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/02/01/%E7%B1%BB-%E4%B8%8A-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E5%85%AD%E6%9C%9F/" title="类(上)——跟我一起从C到C++(第六期)">类(上)——跟我一起从C到C++(第六期)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-02-01T14:20:04.000Z" title="发表于 2023-02-01 22:20:04">2023-02-01</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-02-13T09:14:09.085Z" title="更新于 2023-02-13 17:14:09">2023-02-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/">跟我一起从C到C++</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/c/">c++</a></span></div><div class="content">
+文章目录
+
+8 类
+
+8.1 定义抽象数据类型
+
+8.1.1 结构体？类？
+8.1.2 定义成员函数
+
+8.1.2.1 this指针
+8.1.2.2 const成员函数
+8.1.2.3 类作用域
+8.1.2.4 在类外定义成员函数
+
+8.1.2.4.1 作用域运算符
+8.1.2.4.2 定义一个返回this对象的函数
+
+
+
+
+
+
+8.2 定义类相关的非成员函数
+
+8.2.1 定义read和print函数
+8.2.2 定义add函数
+
+
+8.3 构造函数
+
+8.3.1 合成的默认构造函数
+8.3.2 定义构造函数
+
+8.3.2.1 default的含义
+8.3.2.2 构造函数初始值列表
+8.3.2.3 在类外定义构造函数
+
+
+8.3.3 拷贝、赋值和析构
+
+
+
+
+
+8 类
+类的基本思想是data abstraction（数据抽象）和encapsulation（封装）。
+数据抽象是一种依赖于接口和实现分离的编程（以及设计）技术。
+类的接口包括用户所能执行的操作；类的实现则包括类的数据成员、负责接口实现的函数体以及定义类所需的那些各种私有函数。
+而封装实现了类的接口和实现的函数分离。封装 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/2023/01/31/%E5%87%BD%E6%95%B0-%E4%B8%8B-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%BA%94%E6%9C%9F/" title="函数(下)——跟我一起从C到C++(第五期)"><img class="post-bg" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/cover/5.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="函数(下)——跟我一起从C到C++(第五期)"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/01/31/%E5%87%BD%E6%95%B0-%E4%B8%8B-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%BA%94%E6%9C%9F/" title="函数(下)——跟我一起从C到C++(第五期)">函数(下)——跟我一起从C到C++(第五期)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-01-31T08:10:00.000Z" title="发表于 2023-01-31 16:10:00">2023-01-31</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-02-13T09:14:04.520Z" title="更新于 2023-02-13 17:14:04">2023-02-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/">跟我一起从C到C++</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/c/">c++</a></span></div><div class="content">
+文章目录
+
+7 函数
+
+7.3 函数重载
+
+7.3.1 定义重载函数
+7.3.2 判断形参类型是否相异
+7.3.3 const_cast和重载
+7.3.4 重载的作用域
+7.3.5 函数匹配
+
+7.3.5.1 候选函数和可行函数
+7.3.5.2 寻找最佳匹配
+
+7.3.5.2.1 类型提升的匹配
+7.3.5.2.2 算术类型转换的匹配
+7.3.5.2.3 const实参的匹配
+
+
+7.3.5.3 含有多个形参的函数匹配
+
+
+
+
+7.4 特殊用途语言特性
+
+7.4.1 默认实参
+
+7.4.1.1 使用默认实参调用函数
+7.4.1.2 默认实参声明
+7.4.1.3 默认实参下的函数匹配
+
+
+7.4.2 内联函数和constexpr函数
+
+7.4.2.1 内联函数避免函数调用的开销
+7.4.2.2 constexpr函数
+7.4.2.3 内联函数和constexpr函数在头文件定义
+
+
+7.4.3 调试帮助
+
+7.4.3.1 assert
+7.4.3.2 NDEBUG
+
+
+
+
+
+
+
+7 函数
+承接函数(上)——跟我一起从C到C++(第四期)
+7.3 函数重载
+7.3.1 定义重载函数
+如果 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/01/30/%E5%87%BD%E6%95%B0-%E4%B8%8A-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E5%9B%9B%E6%9C%9F/" title="函数(上)——跟我一起从C到C++(第四期)"><img class="post-bg" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/cover/5.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="函数(上)——跟我一起从C到C++(第四期)"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/01/30/%E5%87%BD%E6%95%B0-%E4%B8%8A-%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E5%9B%9B%E6%9C%9F/" title="函数(上)——跟我一起从C到C++(第四期)">函数(上)——跟我一起从C到C++(第四期)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-01-30T11:36:12.000Z" title="发表于 2023-01-30 19:36:12">2023-01-30</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-02-13T09:13:58.718Z" title="更新于 2023-02-13 17:13:58">2023-02-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/">跟我一起从C到C++</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/c/">c++</a></span></div><div class="content">
+文章目录
+
+7 函数
+
+7.1 参数传递
+
+7.1.1 引用传递
+
+7.1.1.1 传入引用参数
+7.1.1.2 使用引用避免拷贝
+7.1.1.3 const形参和实参
+7.1.1.4 指针或引用形参与const
+
+
+7.1.2 数组形参
+
+7.1.2.1 数组传参
+7.1.2.2 数组管理
+
+7.1.2.2.1 特定标记指定数组长度
+7.1.2.2.2 使用标准库规范
+7.1.2.2.3 显式传递一个数组大小的形参
+7.1.2.2.4 数组引用形参
+
+
+7.1.2.3 多维数组
+
+
+7.1.3 main：处理命令行选项
+7.1.4 含有可变形参的函数
+
+7.1.4.1 initializer_list形参
+7.1.4.2 省略符形参
+
+
+
+
+7.2 返回值
+
+7.2.1 返回引用
+
+7.2.1.1 值是如何被返回的
+7.2.1.2 不要返回局部对象的引用或指针
+7.2.1.3 引用返回左值
+
+
+7.2.2 列表初始化返回值
+7.2.3 main函数返回值
+7.2.4 返回数组指针
+
+7.2.4.1 类型别名简化声明
+7.2.4.2 直接声明
+7.2.4.3 使用尾置返回类型
+7.2 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/2023/01/28/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%B8%89%E6%9C%9F/" title="表达式和语句——跟我一起从C到C++(第三期)"><img class="post-bg" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/cover/1.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="表达式和语句——跟我一起从C到C++(第三期)"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/01/28/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%B8%89%E6%9C%9F/" title="表达式和语句——跟我一起从C到C++(第三期)">表达式和语句——跟我一起从C到C++(第三期)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-01-28T10:43:17.000Z" title="发表于 2023-01-28 18:43:17">2023-01-28</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-02-13T09:12:35.447Z" title="更新于 2023-02-13 17:12:35">2023-02-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/">跟我一起从C到C++</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/c/">c++</a></span></div><div class="content">
+文章目录
+
+5 表达式
+
+5.1 运算符小知识
+
+5.1.1 一/二/三元运算符
+5.1.2 重载运算符
+5.1.3 左值和右值
+5.1.4 逗号运算符
+
+
+5.2 赋值运算符
+
+5.2.1 多重赋值
+5.2.2 在条件中赋值
+5.2.3 递增递减
+
+5.2.3.1 前置和后置
+5.2.3.2 混用解引用和递增减
+
+
+
+
+5.3 类型转换
+
+5.3.1 static_cast
+5.3.2 const_cast
+5.3.3 reinterpret_cast
+5.3.4 旧式的强制类型转换
+
+
+
+
+6 语句
+
+6.1 for语句
+
+6.1.1 传统for语句
+6.1.2 范围for语句
+
+
+6.2 异常处理
+
+6.2.1 throw表达式
+6.2.2 try语句块
+6.2.3 标准异常
+
+
+
+
+
+5 表达式
+5.1 运算符小知识
+5.1.1 一/二/三元运算符
+运算符可以是一元、二元或三元的。
+一元运算符有1个操作数。例如，递增运算符”++”就是一元运算符。
+二元运算符有2个操作数。例如，除法运算符”/”有2个操作数。
+三元运算符有3个操作数。例如，条件运算符”?:”具有3个操作数。
+运 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/01/27/%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%BA%8C%E6%9C%9F/" title="标准库类型——跟我一起从C到C++(第二期)"><img class="post-bg" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/cover/6.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="标准库类型——跟我一起从C到C++(第二期)"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/01/27/%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C-%E7%AC%AC%E4%BA%8C%E6%9C%9F/" title="标准库类型——跟我一起从C到C++(第二期)">标准库类型——跟我一起从C到C++(第二期)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-01-27T08:52:07.000Z" title="发表于 2023-01-27 16:52:07">2023-01-27</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-02-13T09:12:30.763Z" title="更新于 2023-02-13 17:12:30">2023-02-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/">跟我一起从C到C++</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/c/">c++</a></span></div><div class="content">
+文章目录
+
+4 标准库类型
+
+4.1 string
+
+4.1.1 命名空间
+4.1.2 初识输入输出
+4.1.3 初始化string
+4.1.4 操作string对象
+
+4.1.4.1 cin读取
+4.1.4.2 getline行读取
+4.1.4.3 empty和size
+4.1.4.4 运算string对象
+
+
+4.1.5 处理string对象中的字符
+
+4.1.5.1 处理单个字符的函数
+4.1.5.2 不一样的for
+
+4.1.5.2.1 for检查
+4.1.5.2.2 for改变
+4.1.5.2.3 下标执行随机访问
+
+
+
+
+
+
+4.2 vector
+
+4.2.1 初识vector
+4.2.1 定义和初始化
+4.2.2 操作vector
+
+
+4.3 迭代器
+
+4.3.1 使用迭代器
+4.3.2 迭代器类型
+4.3.3 迭代器指向容器
+
+
+4.4 数组
+
+4.4.1 数组新增功能
+4.4.2 数组与指针
+4.4.3 C风格字符串
+4.4.4 与旧代码的接口
+
+4.4.4.1 混用string和C风格字符串
+4.4.4.2 使用数组初始化vector对象
+
+
+4.4.5 多维数组 ...</div></div></div><nav id="pagination"><div class="pagination"><a class="extend prev" rel="prev" href="/"><i class="fas fa-chevron-left fa-fw"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/#content-inner">3</a><a class="page-number" href="/page/4/#content-inner">4</a><a class="extend next" rel="next" href="/page/3/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/assets/pearl.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">瑞奇</div><div class="author-info__description">一个心怀浪漫的少年</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">23</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">10</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">5</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://blog.csdn.net/DreamTrue520?spm=1011.2124.3001.5343"><i></i><span>🛴前往小家...</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/mico845" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:1120845871@qq.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="/info/wechat" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">欢迎来到我的博客！</div></div><div class="sticky_layout"><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">23</div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">114.7k</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总访问量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2023-02-13T09:51:41.174Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2022 - 2023 By 瑞奇</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="translateLink" type="button" title="简繁转换">繁</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/js/search/local-search.js"></script><div class="js-pjax"><script>window.typedJSFn = {
+  init: (str) => {
+    window.typed = new Typed('#subtitle', Object.assign({
+      strings: str,
+      startDelay: 300,
+      typeSpeed: 150,
+      loop: true,
+      backSpeed: 50,
+    }, null))
+  },
+  run: (subtitleType) => {
+    if (true) {
+      if (typeof Typed === 'function') {
+        subtitleType()
+      } else {
+        getScript('https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js').then(subtitleType)
+      }
+    } else {
+      subtitleType()
+    }
+  }
+}
+</script><script>function subtitleType () {
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      if (true) {
+        const from = '出自 ' + data.from
+        const sub = []
+        sub.unshift(data.hitokoto, from)
+        typedJSFn.init(sub)
+      } else {
+        document.getElementById('subtitle').innerHTML = data.hitokoto
+      }
+    })
+}
+typedJSFn.run(subtitleType)
+</script></div><script id="canvas_nest" defer="defer" color="0,0,255" opacity="0.7" zIndex="-1" count="30" mobile="false" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/canvas-nest.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+POWERMODE.mobile = false;
+document.body.addEventListener('input', POWERMODE);
+</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
