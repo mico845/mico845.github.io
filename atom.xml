@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>瑞奇的博客</title>
+  <icon>https://rich-blog.cn/icon.png</icon>
+  
+  <link href="https://rich-blog.cn/atom.xml" rel="self"/>
+  
+  <link href="https://rich-blog.cn/"/>
+  <updated>2023-02-13T12:09:04.089Z</updated>
+  <id>https://rich-blog.cn/</id>
+  
+  <author>
+    <name>瑞奇</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>advanced mathematics(持续更新中)</title>
+    <link href="https://rich-blog.cn/2023/02/13/Math/2023-month-13-advanced-mathematics/"/>
+    <id>https://rich-blog.cn/2023/02/13/Math/2023-month-13-advanced-mathematics/</id>
+    <published>2023-02-12T20:03:20.000Z</published>
+    <updated>2023-02-13T12:09:04.089Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;table-tr-td-bgcolor-yellow-color-black-advanced-mathematics-td-tr-table&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=yellow color=black&gt;Advanced</summary>
+        
+      
+    
+    
+    
+    <category term="advanced mathematics" scheme="https://rich-blog.cn/categories/advanced-mathematics/"/>
+    
+    
+    <category term="Math" scheme="https://rich-blog.cn/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【KMP算法】算法分析和代码解析</title>
+    <link href="https://rich-blog.cn/2023/02/11/ProgramLog/[KMP%E7%AE%97%E6%B3%95]%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E5%92%8C%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>https://rich-blog.cn/2023/02/11/ProgramLog/[KMP%E7%AE%97%E6%B3%95]%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E5%92%8C%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90/</id>
+    <published>2023-02-11T12:33:16.000Z</published>
+    <updated>2023-02-13T09:08:47.018Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%E4%B8%80%E9%97%AE%E9%A2%98%E8%83%8C%E6%99%AF&quot;&gt;一、问题背景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="记录一次编程" scheme="https://rich-blog.cn/categories/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+    <category term="算法" scheme="https://rich-blog.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数据结构" scheme="https://rich-blog.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【C/C++】 复杂计算器——四则运算表达式求值（中缀转后缀表达式）</title>
+    <link href="https://rich-blog.cn/2023/02/09/ProgramLog/[C!C++]%20%E5%A4%8D%E6%9D%82%E8%AE%A1%E7%AE%97%E5%99%A8%E2%80%94%E2%80%94%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC%EF%BC%88%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E5%BC%8F%EF%BC%89/"/>
+    <id>https://rich-blog.cn/2023/02/09/ProgramLog/[C!C++]%20%E5%A4%8D%E6%9D%82%E8%AE%A1%E7%AE%97%E5%99%A8%E2%80%94%E2%80%94%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC%EF%BC%88%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E5%BC%8F%EF%BC%89/</id>
+    <published>2023-02-09T15:10:55.000Z</published>
+    <updated>2023-02-13T09:09:25.726Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%E4%B8%80%E9%97%AE%E9%A2%98%E8%83%8C%E6%99%AF&quot;&gt;一、问题背景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="记录一次编程" scheme="https://rich-blog.cn/categories/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+    <category term="算法" scheme="https://rich-blog.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数据结构" scheme="https://rich-blog.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IO库——跟我一起从C到C++(第九期)</title>
+    <link href="https://rich-blog.cn/2023/02/07/C++/IO%E5%BA%93%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B9%9D%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/02/07/C++/IO%E5%BA%93%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B9%9D%E6%9C%9F)/</id>
+    <published>2023-02-07T06:29:06.000Z</published>
+    <updated>2023-02-13T09:14:28.666Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#9-io%E5%BA%93&quot;&gt;9 IO库&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#91-io%E7%B1%BB&quot;&gt;9.1</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>类(下)——跟我一起从C到C++(第八期)</title>
+    <link href="https://rich-blog.cn/2023/02/05/C++/%E7%B1%BB(%E4%B8%8B)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E5%85%AB%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/02/05/C++/%E7%B1%BB(%E4%B8%8B)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E5%85%AB%E6%9C%9F)/</id>
+    <published>2023-02-05T10:46:10.000Z</published>
+    <updated>2023-02-13T09:14:14.951Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#8-%E7%B1%BB&quot;&gt;8 类&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Linux C/C++】 实现ls -R的命令</title>
+    <link href="https://rich-blog.cn/2023/02/03/ProgramLog/[Linux%20C!C++]%20%E5%AE%9E%E7%8E%B0ls%20-R%E7%9A%84%E5%91%BD%E4%BB%A4/"/>
+    <id>https://rich-blog.cn/2023/02/03/ProgramLog/[Linux%20C!C++]%20%E5%AE%9E%E7%8E%B0ls%20-R%E7%9A%84%E5%91%BD%E4%BB%A4/</id>
+    <published>2023-02-03T08:26:58.000Z</published>
+    <updated>2023-02-13T09:09:48.061Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%E4%B8%80%E8%AF%BB%E5%8F%96%E7%9B%AE%E5%BD%95&quot;&gt;一、读取目录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="记录一次编程" scheme="https://rich-blog.cn/categories/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="linux编程" scheme="https://rich-blog.cn/tags/linux%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>类(中)——跟我一起从C到C++(第七期)</title>
+    <link href="https://rich-blog.cn/2023/02/03/C++/%E7%B1%BB(%E4%B8%AD)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B8%83%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/02/03/C++/%E7%B1%BB(%E4%B8%AD)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B8%83%E6%9C%9F)/</id>
+    <published>2023-02-03T06:39:19.000Z</published>
+    <updated>2023-02-13T09:14:20.527Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#8-%E7%B1%BB&quot;&gt;8 类&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>类(上)——跟我一起从C到C++(第六期)</title>
+    <link href="https://rich-blog.cn/2023/02/01/C++/%E7%B1%BB(%E4%B8%8A)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E5%85%AD%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/02/01/C++/%E7%B1%BB(%E4%B8%8A)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E5%85%AD%E6%9C%9F)/</id>
+    <published>2023-02-01T14:20:04.000Z</published>
+    <updated>2023-02-13T09:14:09.085Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#8-%E7%B1%BB&quot;&gt;8 类&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>函数(下)——跟我一起从C到C++(第五期)</title>
+    <link href="https://rich-blog.cn/2023/01/31/C++/%E5%87%BD%E6%95%B0(%E4%B8%8B)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%BA%94%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/31/C++/%E5%87%BD%E6%95%B0(%E4%B8%8B)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%BA%94%E6%9C%9F)/</id>
+    <published>2023-01-31T08:10:00.000Z</published>
+    <updated>2023-02-13T09:14:04.520Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#7-%E5%87%BD%E6%95%B0&quot;&gt;7 函数&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>函数(上)——跟我一起从C到C++(第四期)</title>
+    <link href="https://rich-blog.cn/2023/01/30/C++/%E5%87%BD%E6%95%B0(%E4%B8%8A)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E5%9B%9B%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/30/C++/%E5%87%BD%E6%95%B0(%E4%B8%8A)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E5%9B%9B%E6%9C%9F)/</id>
+    <published>2023-01-30T11:36:12.000Z</published>
+    <updated>2023-02-13T09:13:58.718Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#7-%E5%87%BD%E6%95%B0&quot;&gt;7 函数&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>表达式和语句——跟我一起从C到C++(第三期)</title>
+    <link href="https://rich-blog.cn/2023/01/28/C++/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B8%89%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/28/C++/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B8%89%E6%9C%9F)/</id>
+    <published>2023-01-28T10:43:17.000Z</published>
+    <updated>2023-02-13T09:12:35.447Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#5-%E8%A1%A8%E8%BE%BE%E5%BC%8F&quot;&gt;5 表达式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>标准库类型——跟我一起从C到C++(第二期)</title>
+    <link href="https://rich-blog.cn/2023/01/27/C++/%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%BA%8C%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/27/C++/%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%BA%8C%E6%9C%9F)/</id>
+    <published>2023-01-27T08:52:07.000Z</published>
+    <updated>2023-02-13T09:12:30.763Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#4-%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8B&quot;&gt;4 标准库类型&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>变量和基本类型——跟我一起从C到C++(第一期)</title>
+    <link href="https://rich-blog.cn/2023/01/26/C++/%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B8%80%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/26/C++/%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C++(%E7%AC%AC%E4%B8%80%E6%9C%9F)/</id>
+    <published>2023-01-26T07:00:00.000Z</published>
+    <updated>2023-02-13T09:12:21.903Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#1-%E5%89%8D%E8%A8%80&quot;&gt;1 前言&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起从C到C++" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E4%BB%8EC%E5%88%B0C/"/>
+    
+    
+    <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ADC和DAC——跟我一起写STM32(第九期)</title>
+    <link href="https://rich-blog.cn/2023/01/17/STM32/ADC%E5%92%8CDAC%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B9%9D%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/17/STM32/ADC%E5%92%8CDAC%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B9%9D%E6%9C%9F)/</id>
+    <published>2023-01-17T11:20:41.000Z</published>
+    <updated>2023-02-13T09:15:02.623Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#11-adc&quot;&gt;11 ADC&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#111-%E8%B5%B0%E8%BF%9Badc&quot;&gt;11.1</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“1，2，3，定时器”——跟我一起写STM32(第八期)</title>
+    <link href="https://rich-blog.cn/2023/01/15/STM32/%E2%80%9C1%EF%BC%8C2%EF%BC%8C3%EF%BC%8C%E5%AE%9A%E6%97%B6%E5%99%A8%E2%80%9D%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%85%AB%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/15/STM32/%E2%80%9C1%EF%BC%8C2%EF%BC%8C3%EF%BC%8C%E5%AE%9A%E6%97%B6%E5%99%A8%E2%80%9D%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%85%AB%E6%9C%9F)/</id>
+    <published>2023-01-15T15:46:02.000Z</published>
+    <updated>2023-02-13T09:13:36.416Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#10-123%E5%AE%9A%E6%97%B6%E5%99%A8&quot;&gt;10 “1，2，3，定时器”&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LCD(含FSMC)——跟我一起写STM32(第七期)</title>
+    <link href="https://rich-blog.cn/2023/01/12/STM32/LCD(%E5%90%ABFSMC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B8%83%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/12/STM32/LCD(%E5%90%ABFSMC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B8%83%E6%9C%9F)/</id>
+    <published>2023-01-12T15:13:46.000Z</published>
+    <updated>2023-02-13T09:15:10.894Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#9-%E7%82%B9%E4%BA%AE%E7%AC%AC%E4%B8%80%E5%9D%97%E5%BD%A9%E5%B1%8F&quot;&gt;9</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OLED(含IIC)——跟我一起写STM32(第六期)</title>
+    <link href="https://rich-blog.cn/2023/01/11/STM32/OLED(%E5%90%ABIIC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%85%AD%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/11/STM32/OLED(%E5%90%ABIIC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%85%AD%E6%9C%9F)/</id>
+    <published>2023-01-11T13:39:11.000Z</published>
+    <updated>2023-02-13T09:15:16.307Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#8-%E7%82%B9%E4%BA%AE%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B1%8F%E5%B9%95&quot;&gt;8</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>串口(含DMA)——跟我一起写STM32(第五期)</title>
+    <link href="https://rich-blog.cn/2023/01/11/STM32/%E4%B8%B2%E5%8F%A3(%E5%90%ABDMA)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%BA%94%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/11/STM32/%E4%B8%B2%E5%8F%A3(%E5%90%ABDMA)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%BA%94%E6%9C%9F)/</id>
+    <published>2023-01-11T11:00:00.000Z</published>
+    <updated>2023-02-13T09:13:21.943Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#7-%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1&quot;&gt;7 串口通信&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>按下按键(含EXTI)——跟我一起写STM32(第四期)</title>
+    <link href="https://rich-blog.cn/2023/01/10/STM32/%E6%8C%89%E4%B8%8B%E6%8C%89%E9%94%AE(%E5%90%ABEXTI)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%9B%9B%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/10/STM32/%E6%8C%89%E4%B8%8B%E6%8C%89%E9%94%AE(%E5%90%ABEXTI)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%9B%9B%E6%9C%9F)/</id>
+    <published>2023-01-10T15:06:13.000Z</published>
+    <updated>2023-02-13T09:13:27.790Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#6-%E6%8C%89%E4%B8%8B%E6%8C%89%E9%94%AE&quot;&gt;6 按下按键&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模范工程——跟我一起写STM32(第三期)</title>
+    <link href="https://rich-blog.cn/2023/01/10/STM32/%E6%A8%A1%E8%8C%83%E5%B7%A5%E7%A8%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B8%89%E6%9C%9F)/"/>
+    <id>https://rich-blog.cn/2023/01/10/STM32/%E6%A8%A1%E8%8C%83%E5%B7%A5%E7%A8%8B%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B8%89%E6%9C%9F)/</id>
+    <published>2023-01-10T12:55:38.000Z</published>
+    <updated>2023-02-13T10:06:23.323Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h3 id=&quot;文章目录&quot;&gt;文章目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#5-%E6%A8%A1%E8%8C%83%E5%B7%A5%E7%A8%8B&quot;&gt;5 模范工程&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
+    
+    
+    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
+    
+    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
