@@ -20,7 +20,7 @@
       
         <tags>
             
-            <tag> Math </tag>
+            <tag> Mathematics </tag>
             
         </tags>
       
@@ -654,22 +654,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="当前版本：-1-0-3">当前版本： <strong>1.0.3</strong></h2><hr><h2 id="更新日志：">更新日志：</h2><h3 id="1-0-3">1.0.3</h3><ol><li>网站部分图片采用CDN优化</li><li>修复数学公式渲染问题</li></ol><hr><h3 id="1-0-2">1.0.2</h3><ol><li>修复部分浏览器无法访问文章问题。</li><li>增加RSS订阅按钮</li></ol><hr><center>笔者将在这里记录笔者的生活</center><center>谢谢您的关注</center>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="当前版本：-1-0-3">当前版本： <strong>1.0.3</strong></h2><hr><h2 id="更新日志：">更新日志：</h2><h3 id="1-0-3">1.0.3</h3><ol><li>网站部分图片采用CDN优化</li><li>修复数学公式渲染问题</li></ol><hr><h3 id="1-0-2">1.0.2</h3><ol><li>修复部分浏览器无法访问文章问题。</li><li>增加RSS订阅按钮</li></ol><hr><center>笔者将在这里记录笔者的生活</center><center>谢谢您的关注</center>]]></content>
       
     </entry>
     
@@ -698,6 +698,17 @@
     
     
     <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Wechat</title>
       <link href="/info/wechat/index.html"/>
       <url>/info/wechat/index.html</url>
@@ -712,17 +723,6 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
