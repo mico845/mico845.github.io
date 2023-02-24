@@ -665,9 +665,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -676,9 +676,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -698,17 +698,6 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>课程表</title>
       <link href="/table/index.html"/>
       <url>/table/index.html</url>
@@ -720,22 +709,33 @@
     
     
     <entry>
-      <title>Wechat</title>
-      <link href="/info/wechat/index.html"/>
-      <url>/info/wechat/index.html</url>
+      <title>QQ</title>
+      <link href="/info/qq/index.html"/>
+      <url>/info/qq/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的qq">如有需要，可以注明原因，添加笔者的QQ:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/qq.png" alt="QQ"></p>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>QQ</title>
-      <link href="/info/qq/index.html"/>
-      <url>/info/qq/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的qq">如有需要，可以注明原因，添加笔者的QQ:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/qq.png" alt="QQ"></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Wechat</title>
+      <link href="/info/wechat/index.html"/>
+      <url>/info/wechat/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
       
     </entry>
     
