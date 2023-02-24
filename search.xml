@@ -155,9 +155,9 @@
             
             <tag> c++ </tag>
             
-            <tag> c语言 </tag>
-            
             <tag> linux编程 </tag>
+            
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -357,13 +357,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -388,13 +388,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -419,13 +419,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -450,13 +450,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -481,13 +481,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -512,13 +512,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -543,13 +543,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -574,13 +574,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -605,13 +605,13 @@
       
         <tags>
             
-            <tag> stm32 </tag>
+            <tag> c语言 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> c语言 </tag>
+            <tag> 单片机 </tag>
             
         </tags>
       
@@ -636,11 +636,11 @@
       
         <tags>
             
+            <tag> c语言 </tag>
+            
             <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
-            
-            <tag> c语言 </tag>
             
             <tag> 内存管理 </tag>
             
@@ -654,44 +654,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext></mrow><annotation encoding="application/x-tex">~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span></span></span></span> <strong>1.0.2 -&gt; 1.0.3</strong></p><ol><li>为网站增加新域名<a href="https://www.rich-blog.cn/">rich-blog.cn</a></li><li>网站部分图片采用CDN优化</li><li>修复数学公式渲染问题</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-15</p></div></div><div class='timeline-item-content'><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext></mrow><annotation encoding="application/x-tex">~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span></span></span></span> <strong>1.0.1 -&gt; 1.0.2</strong></p><ol><li>修复部分浏览器无法访问文章问题。</li><li>增加RSS订阅按钮</li></ol></div></div></div><hr><span class='p center logo large'>Rich-Blog</span><span class='p center small'>A Wonderful little world</span>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>生活</title>
-      <link href="/life/index.html"/>
-      <url>/life/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-21</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>取回小盆栽</p>            </div>从宿舍阿姨那里取回我的小盆栽了！感觉它越长越下垂了，也许是它开始学会谦虚了吧。</div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-21.jpg" alt=""></p>]]></content>
       
     </entry>
     
@@ -709,11 +676,33 @@
     
     
     <entry>
-      <title>Wechat</title>
-      <link href="/info/wechat/index.html"/>
-      <url>/info/wechat/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>生活</title>
+      <link href="/life/index.html"/>
+      <url>/life/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-24</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>听音乐会</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__1.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__2.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__3.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__4.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>逛大唐不夜城</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__6.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__7.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__8.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__5.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-22</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>逛万科</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>吃烤肉</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>打台球</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-22__1.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-21</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>取回小盆栽</p>            </div>从宿舍阿姨那里取回我的小盆栽了！感觉它越长越下垂了，也许是它开始学会谦虚了吧。</div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-21.jpg" alt=""></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -725,6 +714,17 @@
       <url>/table/index.html</url>
       
         <content type="html"><![CDATA[<html><head><title>电子2208课表</title><style>.td{     width:60px;     height=900px;}</style></head><body><table><tr align=center>      <td></td>      <td class="td">周一</td>      <td class="td">周二</td>      <td class="td">周三</td>      <td class="td">周四</td>      <td class="td">周五</td>    </tr><tr  align=center>    <td class="td"><font size="3">1</font><br><font size="1">8:00<br>8:50</font> </td>    <td class="td" rowspan="2" bgcolor="#FFB677">高等数<br>学A2◆<br>陈诚<br>A133<br></td>    <td class="td" rowspan="2" bgcolor="#6CD4E1">大学物<br>理A1◆<br>杨超<br>A137<br></td>    <td class="td" rowspan="2" bgcolor="#FFB677">高等数<br>学A2◆<br>陈诚<br>A133<br></td>    <td class="td" rowspan="2" bgcolor="#6CD4E1">大学物<br>理A1◆<br>杨超<br>A137<br></td>    <td class="td" rowspan="2" bgcolor="#88E5DA">电路分<br>析基础<br>与实验◆<br>楚瑞<br>A133<br></td>  </tr><tr align=center>    <td class="td"><font size="3">2</font><br><font size="1">8:55<br>9:45</font> </td>  </tr><tr align=center>    <td class="td"><font size="3" >3</font><br><font size="1">10:15<br>11:05</font> </td>    <td class="td" rowspan="2" bgcolor="#88E5DA">电路分<br>析基础<br>与实验◆<br>楚瑞<br>A133<br></td>    <td class="td" rowspan="2" bgcolor="#88AADD">大学英<br>语C2◆<br>刘方<br>A718<br></td>    <td class="td" rowspan="2" bgcolor="#88E5DA">电路分<br>析基础<br>与实验◆<br>楚瑞<br>A133<br></td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#FFB677">高等数<br>学A2◆<br>陈诚<br>A133<br></td>  </tr><tr align=center>    <td class="td"><font size="3">4</font><br><font size="1">11:10<br>12:00</font> </td>  </tr><tr align=center>    <td class="td"><font size="3">5</font><br><font size="1">14:30<br>15:20</font> </td>    <td class="td" rowspan="2" bgcolor="#B2ED75">劳动教<br>育◆<br>郑增记<br>B101</td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#11AADD">大学体<br>育2◆<br>苏国庆<br></td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#B2ED75">思想道<br>德与法<br>治◆<br>刘晶芳<br>A133</td>  </tr><tr align=center>    <td class="td"><font size="3">6</font><br><font size="1">15:25<br>16:15</font> </td>  </tr><tr align=center>    <td class="td"><font size="3">7</font><br><font size="1">16:35<br>17:25</font> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>  </tr><tr align=center>    <td class="td"><font size="3">8</font><br><font size="1">17:30<br>18:20</font> </td>  </tr><tr align=center>    <td class="td"><font size="3">9</font><br><font size="1">19:00<br>19:50</font> </td>    <td> </td>    <td> </td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#D8D8D8">大学物<br>理实验◆<br>祁建霞<br></td>    <td> </td>  </tr><tr align=center>    <td class="td"><font size="3">10</font><br><font size="1">20:00<br>20:50</font> </td>  </tr></table></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Wechat</title>
+      <link href="/info/wechat/index.html"/>
+      <url>/info/wechat/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
       
     </entry>
     
