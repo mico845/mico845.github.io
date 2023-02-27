@@ -1673,7 +1673,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 16px;
-  font-family: JetBrains_Mono !important;
+  font-family: JBM !important;
 }
 #article-container code {
   padding: 2px 4px;
