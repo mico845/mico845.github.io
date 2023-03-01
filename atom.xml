@@ -6,7 +6,7 @@
   <link href="https://rich-blog.cn/atom.xml" rel="self"/>
   
   <link href="https://rich-blog.cn/"/>
-  <updated>2023-02-27T08:33:45.558Z</updated>
+  <updated>2023-03-01T06:09:50.293Z</updated>
   <id>https://rich-blog.cn/</id>
   
   <author>
@@ -15,6 +15,74 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FFT(持续更新中)</title>
+    <link href="https://rich-blog.cn/2023/02/28/Subject/Math/FFT/"/>
+    <id>https://rich-blog.cn/2023/02/28/Subject/Math/FFT/</id>
+    <published>2023-02-28T13:40:00.000Z</published>
+    <updated>2023-03-01T06:09:50.293Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;傅里叶级数&quot;&gt;&lt;a href=&quot;#傅里叶级数&quot; class=&quot;headerlink&quot; title=&quot;傅里叶级数&quot;&gt;&lt;/a&gt;傅里叶级数&lt;/h2&gt;&lt;p&gt;如果 $f(x)$ 是周期函数， 那么 $f(x)$</summary>
+        
+      
+    
+    
+    
+    <category term="Mathematics" scheme="https://rich-blog.cn/categories/Mathematics/"/>
+    
+    
+    <category term="Mathematics" scheme="https://rich-blog.cn/tags/Mathematics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Advanced Mathematics II(持续更新中)</title>
+    <link href="https://rich-blog.cn/2023/02/27/Subject/Math/Advanced_Mathematics_II/"/>
+    <id>https://rich-blog.cn/2023/02/27/Subject/Math/Advanced_Mathematics_II/</id>
+    <published>2023-02-27T13:40:00.000Z</published>
+    <updated>2023-02-28T14:02:36.919Z</updated>
+    
+    
+    
+    
+    <category term="Mathematics" scheme="https://rich-blog.cn/categories/Mathematics/"/>
+    
+    
+    <category term="Mathematics" scheme="https://rich-blog.cn/tags/Mathematics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fundamentals of Circuit Analysis and Experiment(持续更新中)</title>
+    <link href="https://rich-blog.cn/2023/02/27/Subject/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/"/>
+    <id>https://rich-blog.cn/2023/02/27/Subject/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/</id>
+    <published>2023-02-27T13:39:00.000Z</published>
+    <updated>2023-02-27T15:00:48.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-basic-concepts&quot;&gt;1 basic concepts&lt;/h2&gt;
+&lt;p&gt;Electric circuit theory and electromagnetic theory are the two fundamental theories upon</summary>
+        
+      
+    
+    
+    
+    <category term="Circuit" scheme="https://rich-blog.cn/categories/Circuit/"/>
+    
+    
+    <category term="Circuit" scheme="https://rich-blog.cn/tags/Circuit/"/>
+    
+  </entry>
   
   <entry>
     <title>顺序容器(下)——跟我一起从C到C++(第十一期)</title>
@@ -71,11 +139,11 @@
   </entry>
   
   <entry>
-    <title>Advanced Mathematics(持续更新中)</title>
-    <link href="https://rich-blog.cn/2023/02/13/Subject/Math/Advanced_Mathematics/"/>
-    <id>https://rich-blog.cn/2023/02/13/Subject/Math/Advanced_Mathematics/</id>
+    <title>Advanced Mathematics I</title>
+    <link href="https://rich-blog.cn/2023/02/13/Subject/Math/Advanced_Mathematics_I/"/>
+    <id>https://rich-blog.cn/2023/02/13/Subject/Math/Advanced_Mathematics_I/</id>
     <published>2023-02-12T20:03:20.000Z</published>
-    <updated>2023-02-23T15:22:47.213Z</updated>
+    <updated>2023-02-27T13:39:17.361Z</updated>
     
     
       
@@ -471,108 +539,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;10-1-2-3-定时器&quot;&gt;10</summary>
-        
-      
-    
-    
-    
-    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
-    
-    
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
-    
-    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LCD(含FSMC)——跟我一起写STM32(第七期)</title>
-    <link href="https://rich-blog.cn/2023/01/12/STM32/LCD(%E5%90%ABFSMC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B8%83%E6%9C%9F)/"/>
-    <id>https://rich-blog.cn/2023/01/12/STM32/LCD(%E5%90%ABFSMC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B8%83%E6%9C%9F)/</id>
-    <published>2023-01-12T15:13:46.000Z</published>
-    <updated>2023-02-26T04:02:46.176Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;9-点亮第一块彩屏&quot;&gt;9 点亮第一块彩屏&lt;/h1&gt;
-&lt;h2 id=&quot;9-1-认识tftlcd&quot;&gt;9.1 认识TFTLCD&lt;/h2&gt;
-&lt;p&gt;这是市面上显示器优缺点：&lt;br&gt;
-&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
-    
-    
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
-    
-    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>OLED(含IIC)——跟我一起写STM32(第六期)</title>
-    <link href="https://rich-blog.cn/2023/01/11/STM32/OLED(%E5%90%ABIIC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%85%AD%E6%9C%9F)/"/>
-    <id>https://rich-blog.cn/2023/01/11/STM32/OLED(%E5%90%ABIIC)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E5%85%AD%E6%9C%9F)/</id>
-    <published>2023-01-11T13:39:11.000Z</published>
-    <updated>2023-02-26T04:02:51.960Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;8-点亮第一个屏幕&quot;&gt;8 点亮第一个屏幕&lt;/h1&gt;
-&lt;h2 id=&quot;8-1-认识iic&quot;&gt;8.1</summary>
-        
-      
-    
-    
-    
-    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
-    
-    
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
-    
-    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>串口(含DMA)——跟我一起写STM32(第五期)</title>
-    <link href="https://rich-blog.cn/2023/01/11/STM32/%E4%B8%B2%E5%8F%A3(%E5%90%ABDMA)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%BA%94%E6%9C%9F)/"/>
-    <id>https://rich-blog.cn/2023/01/11/STM32/%E4%B8%B2%E5%8F%A3(%E5%90%ABDMA)%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%BA%94%E6%9C%9F)/</id>
-    <published>2023-01-11T11:00:00.000Z</published>
-    <updated>2023-02-26T04:02:12.309Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;7-串口通信&quot;&gt;7 串口通信&lt;/h1&gt;
-&lt;h2 id=&quot;7-1-认识串口&quot;&gt;7.1 认识串口&lt;/h2&gt;
-&lt;p&gt;谈到单品机通信，不得不提及的三种通信方式：&lt;br&gt;
-UART、I2C、SPI&lt;br&gt;
-补课视频推荐(b站)：&lt;br&gt;
-&lt;img</summary>
         
       
     
