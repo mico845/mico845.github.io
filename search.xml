@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Physics</title>
+      <link href="/2023/03/06/Subject/Physics/Physics/"/>
+      <url>/2023/03/06/Subject/Physics/Physics/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-the-kinematics-of-mass-points">1 The Kinematics of Mass Points</h2><h3 id="1-1-reference-frames">1.1 Reference frames</h3><p>the chosen object as a reference of the motion.</p><h3 id="1-2-mass-point">1.2 Mass point</h3><p>Mass is also called Particle.<br>If we may ignore its size and shape, we may therefore regard the object as a single point with a mass(mass point).<br>Treating an object as a mass point is conditional and relative. So, we must make specific analysis for specific cases.</p><h3 id="1-3-position-vector">1.3 Position vector</h3><p><strong>vector</strong> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span> direction, magnitude<br><strong>scalar</strong> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span> magnitude</p><p>AND <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mtext> </mtext><mover accent="true"><mi>a</mi><mo stretchy="true">→</mo></mover><mtext> </mtext><mi mathvariant="normal">∣</mi></mrow><annotation encoding="application/x-tex">|~\overrightarrow{a}~|</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20256em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mspace nobreak"> </span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">a</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace nobreak"> </span><span class="mord">∣</span></span></span></span> is <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">a</span></span></span></span>,<br>then <strong>dot product is a scalar</strong></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\overrightarro…'>\begin{align*}\overrightarrow{A} \cdot \overrightarrow{B} = AB \cos \alpha\end{align*}</p><p><strong>cross product is a vector</strong></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲|\overrightarr…'>\begin{align*}|\overrightarrow{A} \times \overrightarrow{B}| &amp;=  AB \sin \alpha\\\overrightarrow{A} \times \overrightarrow{B} &amp;= (AB \sin \alpha)\overrightarrow{e}\end{align*}</p><p>Let position vector <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mo>=</mo><mi>x</mi><mtext> </mtext><mover accent="true"><mi>i</mi><mo stretchy="true">→</mo></mover><mo>+</mo><mi>y</mi><mtext> </mtext><mover accent="true"><mi>j</mi><mo stretchy="true">→</mo></mover><mo>+</mo><mi>z</mi><mtext> </mtext><mover accent="true"><mi>k</mi><mo stretchy="true">→</mo></mover></mrow><annotation encoding="application/x-tex">\overrightarrow{r} = x~\overrightarrow{i}+y~\overrightarrow{j}+z~\overrightarrow{k}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9525600000000001em;vertical-align:0em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.2648499999999998em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">x</span><span class="mspace nobreak"> </span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.18152em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">i</span></span></span><span class="svg-align" style="top:-3.65952em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.37596em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="mspace nobreak"> </span><span class="mord accent"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.1815200000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span><span class="svg-align" style="top:-3.65952em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.21644em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.04398em;">z</span><span class="mspace nobreak"> </span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.21644em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span><span class="svg-align" style="top:-3.69444em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span></span></span></span>,<br>then magnitude <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mi mathvariant="normal">∣</mi><mo>=</mo><msqrt><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></msqrt></mrow><annotation encoding="application/x-tex">|\overrightarrow{r}| = \sqrt{x^{2} + y^{2} + z^{2}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20256em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mord">∣</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.24em;vertical-align:-0.2821659999999999em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9578340000000001em;"><span class="svg-align" style="top:-3.2em;"><span class="pstrut" style="height:3.2em;"></span><span class="mord" style="padding-left:1em;"><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.04398em;">z</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span><span style="top:-2.917834em;"><span class="pstrut" style="height:3.2em;"></span><span class="hide-tail" style="min-width:1.02em;height:1.28em;"><svg width='400em' height='1.28em' viewBox='0 0 400000 1296' preserveAspectRatio='xMinYMin slice'><path d='M263,681c0.7,0,18,39.7,52,119c34,79.3,68.167,158.7,102.5,238c34.3,79.3,51.8,119.3,52.5,120c340,-704.7,510.7,-1060.3,512,-1067l0 -0c4.7,-7.3,11,-11,19,-11H40000v40H1012.3s-271.3,567,-271.3,567c-38.7,80.7,-84,175,-136,283c-52,108,-89.167,185.3,-111.5,232c-22.3,46.7,-33.8,70.3,-34.5,71c-4.7,4.7,-12.3,7,-23,7s-12,-1,-12,-1s-109,-253,-109,-253c-72.7,-168,-109.3,-252,-110,-252c-10.7,8,-22,16.7,-34,26c-22,17.3,-33.3,26,-34,26s-26,-26,-26,-26s76,-59,76,-59s76,-60,76,-60zM1001 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2821659999999999em;"><span></span></span></span></span></span></span></span></span>,</p><p>direction:<br><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>cos</mi><mo>⁡</mo><mi>α</mi><mo>=</mo><mfrac><mi>x</mi><mrow><mi mathvariant="normal">∣</mi><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mi mathvariant="normal">∣</mi></mrow></mfrac><mo separator="true">,</mo><mtext> </mtext><mi>cos</mi><mo>⁡</mo><mi>β</mi><mo>=</mo><mfrac><mi>y</mi><mrow><mi mathvariant="normal">∣</mi><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mi mathvariant="normal">∣</mi></mrow></mfrac><mo separator="true">,</mo><mtext> </mtext><mi>cos</mi><mo>⁡</mo><mi>γ</mi><mo>=</mo><mfrac><mi>z</mi><mrow><mi mathvariant="normal">∣</mi><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mi mathvariant="normal">∣</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\cos \alpha =\frac{x}{|\overrightarrow{r}|},~\cos \beta =\frac{y}{|\overrightarrow{r}|},~\cos \gamma =\frac{z}{|\overrightarrow{r}|}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.0037em;">α</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.347184em;vertical-align:-0.651792em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.695392em;"><span style="top:-2.523208em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∣</span><span class="mord accent mtight"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-2.7em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.13056em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail mtight" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mord mtight">∣</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">x</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.651792em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mspace nobreak"> </span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.05278em;">β</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.399292em;vertical-align:-0.651792em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7475em;"><span style="top:-2.523208em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∣</span><span class="mord accent mtight"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-2.7em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.13056em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail mtight" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mord mtight">∣</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.03588em;">y</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.651792em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mspace nobreak"> </span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.05556em;">γ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.347184em;vertical-align:-0.651792em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.695392em;"><span style="top:-2.523208em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∣</span><span class="mord accent mtight"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-2.7em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.13056em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail mtight" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mord mtight">∣</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.04398em;">z</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.651792em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p><h3 id="1-4-equation-of-motion">1.4 Equation of motion</h3><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\overrightarro…'>\begin{align*}\overrightarrow{r}~(t) = x(t)~\overrightarrow{i}+y(t)~\overrightarrow{j}+z(t)~\overrightarrow{k}\end{align*}</p><p>the trajectory equation can be obtain by eliminating <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>t</mi></mrow><annotation encoding="application/x-tex">t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.61508em;vertical-align:0em;"></span><span class="mord mathdefault">t</span></span></span></span>.</p><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/phy_20230306223206.png" alt=""></p><p><strong>displacement</strong> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover></mrow><annotation encoding="application/x-tex">\Delta \overrightarrow{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9525600000000001em;vertical-align:0em;"></span><span class="mord">Δ</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span></span></span></span><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/phy_20230306223248.png" alt=""></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\overrightarro…'>\begin{align*}\overrightarrow{r_{A}}&amp;= x_{A}~\overrightarrow{i} + y_{A}~\overrightarrow{j}\\\overrightarrow{r_{B}}&amp;= x_{B}~\overrightarrow{i} + y_{B}~\overrightarrow{j}\\\Delta \overrightarrow{r} &amp;= \overrightarrow{r_{B}} - \overrightarrow{r_{A}} = (x_{B}-x_{A})~\overrightarrow{i}+(y_{B}-y_{A})~\overrightarrow{j}\end{align*}</p><p>3-D motion:</p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\Delta \overri…'>\begin{align*}\Delta \overrightarrow{r} &amp;= (x_{B}-x_{A})~\overrightarrow{i}+(y_{B}-y_{A})~\overrightarrow{j} +  (z_{B}-z_{A})~\overrightarrow{k}\end{align*}</p><p><strong>notice</strong></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\Delta \overri…'>\begin{align*}\Delta \overrightarrow{r} &amp;= \overrightarrow{r_{2}} - \overrightarrow{r_{1}}\\|~\Delta \overrightarrow{r} ~|&amp;= |\overrightarrow{r_{2}} - \overrightarrow{r_{1}}|\\\Delta r &amp;= r_{2} - r_{1} =|\overrightarrow{r_{2}}| - |\overrightarrow{r_{1}}|\end{align*}</p><p><strong>path</strong> <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi><mi>s</mi></mrow><annotation encoding="application/x-tex">\Delta s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Δ</span><span class="mord mathdefault">s</span></span></span></span><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/phy_20230306225027.png" alt=""></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\Delta s = \ma…'>\begin{align*}\Delta s = \mathop{P_{1}P_{2}}\limits^{\frown}\end{align*}</p><p><strong>difference</strong></p><ol><li>Displacement is unique</li><li>Generally <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mi mathvariant="normal">Δ</mi><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mi mathvariant="normal">∣</mi><mo mathvariant="normal">≠</mo><mi mathvariant="normal">Δ</mi><mi>s</mi></mrow><annotation encoding="application/x-tex">|\Delta \overrightarrow{r}| \neq \Delta s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20256em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord">Δ</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mord">∣</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"><span class="mrel"><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="rlap"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="inner"><span class="mrel"></span></span><span class="fix"></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Δ</span><span class="mord mathdefault">s</span></span></span></span></li><li>In the limit as <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mi mathvariant="normal">Δ</mi><mi>t</mi><mo>→</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">|\Delta t \rightarrow 0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord">Δ</span><span class="mord mathdefault">t</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span>, <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mtext> </mtext><mi>d</mi><mtext> </mtext><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mtext> </mtext><mi mathvariant="normal">∣</mi><mo>=</mo><mi mathvariant="normal">∣</mi><mtext> </mtext><mi>d</mi><mi>s</mi><mtext> </mtext><mi mathvariant="normal">∣</mi></mrow><annotation encoding="application/x-tex">|~d~\overrightarrow{r}~|=|~ds~|</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20256em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mspace nobreak"> </span><span class="mord mathdefault">d</span><span class="mspace nobreak"> </span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace nobreak"> </span><span class="mord">∣</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mspace nobreak"> </span><span class="mord mathdefault">d</span><span class="mord mathdefault">s</span><span class="mspace nobreak"> </span><span class="mord">∣</span></span></span></span></li><li>Displacement is a vector, path is a scalar.</li></ol><h3 id="1-5-velocity">1.5 Velocity</h3><p><strong>average velocity</strong></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\Delta \overri…'>\begin{align*}\Delta \overrightarrow{r} &amp;= \overrightarrow{r}~(t + \Delta t) - \overrightarrow{r}~(t)\\ &amp;= \Delta x~\overrightarrow{i} + \Delta y~\overrightarrow{j}\\\overline{~\overrightarrow{v}~} &amp;= \frac{\Delta \overrightarrow{r}}{\Delta t} \\&amp; = \frac{\Delta x}{\Delta t}~\overrightarrow{i} + \frac{\Delta y}{\Delta t}~\overrightarrow{j}\\&amp; = \overline{v_{x}}~\overrightarrow{i} + \overline{v_{y}}~\overrightarrow{j}\end{align*}</p><p><strong>instantaneous velocity</strong></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\overrightarro…'>\begin{align*}\overrightarrow{v} &amp;= \lim \limits_{\Delta t \to 0}{\frac{\Delta \overrightarrow{r}}{\Delta t}} = \frac{d~\overrightarrow{r}}{dt}\\&amp;=  \frac{dx}{dt}~\overrightarrow{i} + \frac{dy}{dt}~\overrightarrow{j}\\&amp;=  v_{x} ~\overrightarrow{i} + v_{y} ~\overrightarrow{j}\end{align*}</p><p>As <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi><mi>t</mi><mo>→</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\Delta t \to 0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Δ</span><span class="mord mathdefault">t</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span>, <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mtext> </mtext><mi>d</mi><mtext> </mtext><mover accent="true"><mi>r</mi><mo stretchy="true">→</mo></mover><mtext> </mtext><mi mathvariant="normal">∣</mi><mo>=</mo><mi>d</mi><mi>s</mi></mrow><annotation encoding="application/x-tex">|~d~\overrightarrow{r}~| =ds</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20256em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mspace nobreak"> </span><span class="mord mathdefault">d</span><span class="mspace nobreak"> </span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9525600000000001em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span><span class="svg-align" style="top:-3.43056em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace nobreak"> </span><span class="mord">∣</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">s</span></span></span></span></p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\overrightarro…'>\begin{align*}\overrightarrow{v} &amp;= \frac{ds}{dt} ~\overrightarrow{e_{t}}\end{align*}</p><p>direction: tangent to trajectory a that point<br>magnitude: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>v</mi><mo>=</mo><mfrac><mrow><mi>d</mi><mi>s</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">v = \frac{ds}{dt}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">v</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.2251079999999999em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8801079999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">d</span><span class="mord mathdefault mtight">t</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">d</span><span class="mord mathdefault mtight">s</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> (the magnitude of velocity equals to speed)</p><p><strong>speed</strong><br>average speed</p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲\overline{v} &amp;…'>\begin{align*}\overline{v} &amp;= \frac{\Delta s}{\Delta t}\end{align*}</p><p>instantaneous speed</p><p class='katex-block katex-error' title='ParseError: KaTeX parse error: No such environment: align* at position 7: \begin{̲a̲l̲i̲g̲n̲*̲}̲v &amp;= \lim \lim…'>\begin{align*}v &amp;= \lim \limits_{\Delta t \to 0}{\frac{\Delta s}{\Delta t}} = \frac{ds}{dt}\end{align*}</p><p>Yeah, <strong>the magnitude of instantaneous velocity equals to instantaneous speed</strong>.</p><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/13.png" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Physics </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Physics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>FFT(持续更新中)</title>
       <link href="/2023/02/28/Subject/Math/FFT/"/>
       <url>/2023/02/28/Subject/Math/FFT/</url>
@@ -278,11 +303,11 @@
       
         <tags>
             
+            <tag> c语言 </tag>
+            
             <tag> c++ </tag>
             
             <tag> linux编程 </tag>
-            
-            <tag> c语言 </tag>
             
         </tags>
       
@@ -482,13 +507,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -513,13 +538,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -544,13 +569,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -575,13 +600,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -606,13 +631,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -637,13 +662,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -668,13 +693,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -699,13 +724,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -730,13 +755,13 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> 嵌入式 </tag>
             
-            <tag> 单片机 </tag>
+            <tag> c语言 </tag>
             
         </tags>
       
@@ -761,11 +786,11 @@
       
         <tags>
             
-            <tag> c语言 </tag>
-            
             <tag> stm32 </tag>
             
             <tag> 嵌入式 </tag>
+            
+            <tag> c语言 </tag>
             
             <tag> 内存管理 </tag>
             
@@ -779,22 +804,33 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext></mrow><annotation encoding="application/x-tex">~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span></span></span></span> <strong>1.0.2 -&gt; 1.0.3</strong></p><ol><li>为网站增加新域名<a href="https://www.rich-blog.cn/">rich-blog.cn</a></li><li>网站部分图片采用CDN优化</li><li>修复数学公式渲染问题</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-15</p></div></div><div class='timeline-item-content'><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext></mrow><annotation encoding="application/x-tex">~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span></span></span></span> <strong>1.0.1 -&gt; 1.0.2</strong></p><ol><li>修复部分浏览器无法访问文章问题。</li><li>增加RSS订阅按钮</li></ol></div></div></div><hr><span class='p center logo large'>Rich-Blog</span><span class='p center small'>A Wonderful little world</span>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>生活</title>
+      <link href="/life/index.html"/>
+      <url>/life/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-24</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>听音乐会</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__1.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__2.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__3.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__4.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>逛大唐不夜城</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__6.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__7.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__8.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__5.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-22</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>逛万科</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>吃烤肉</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>打台球</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-22__1.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-21</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>取回小盆栽</p>            </div>从宿舍阿姨那里取回我的小盆栽了！感觉它越长越下垂了，也许是它开始学会谦虚了吧。</div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-21.jpg" alt=""></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext></mrow><annotation encoding="application/x-tex">~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span></span></span></span> <strong>1.0.2 -&gt; 1.0.3</strong></p><ol><li>为网站增加新域名<a href="https://www.rich-blog.cn/">rich-blog.cn</a></li><li>网站部分图片采用CDN优化</li><li>修复数学公式渲染问题</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-15</p></div></div><div class='timeline-item-content'><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext></mrow><annotation encoding="application/x-tex">~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span></span></span></span> <strong>1.0.1 -&gt; 1.0.2</strong></p><ol><li>修复部分浏览器无法访问文章问题。</li><li>增加RSS订阅按钮</li></ol></div></div></div><hr><span class='p center logo large'>Rich-Blog</span><span class='p center small'>A Wonderful little world</span>]]></content>
       
     </entry>
     
@@ -812,11 +848,22 @@
     
     
     <entry>
-      <title>生活</title>
-      <link href="/life/index.html"/>
-      <url>/life/index.html</url>
+      <title>QQ</title>
+      <link href="/info/qq/index.html"/>
+      <url>/info/qq/index.html</url>
       
-        <content type="html"><![CDATA[<div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-24</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>听音乐会</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__1.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__2.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__3.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__4.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>逛大唐不夜城</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__6.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__7.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__8.jpg" alt=""><br><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-24__5.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-22</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>逛万科</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>吃烤肉</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>打台球</p>            </div></div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-22__1.jpg" alt=""></p><div class="timeline "><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-21</p></div></div><div class='timeline-item-content'><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>取回小盆栽</p>            </div>从宿舍阿姨那里取回我的小盆栽了！感觉它越长越下垂了，也许是它开始学会谦虚了吧。</div></div></div><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/2023-2-21.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的qq">如有需要，可以注明原因，添加笔者的QQ:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/qq.png" alt="QQ"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Wechat</title>
+      <link href="/info/wechat/index.html"/>
+      <url>/info/wechat/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
       
     </entry>
     
@@ -839,28 +886,6 @@
       <url>/table/index.html</url>
       
         <content type="html"><![CDATA[<html><head><title>电子2208课表</title><style>.td{     width:60px;     height=900px;}</style></head><body><table><tr align=center>      <td></td>      <td class="td">周一</td>      <td class="td">周二</td>      <td class="td">周三</td>      <td class="td">周四</td>      <td class="td">周五</td>    </tr><tr  align=center>    <td class="td"><font size="3">1</font><br><font size="1">8:00<br>8:50</font> </td>    <td class="td" rowspan="2" bgcolor="#FFB677">高等数<br>学A2◆<br>陈诚<br>A133<br></td>    <td class="td" rowspan="2" bgcolor="#6CD4E1">大学物<br>理A1◆<br>杨超<br>A137<br></td>    <td class="td" rowspan="2" bgcolor="#FFB677">高等数<br>学A2◆<br>陈诚<br>A133<br></td>    <td class="td" rowspan="2" bgcolor="#6CD4E1">大学物<br>理A1◆<br>杨超<br>A137<br></td>    <td class="td" rowspan="2" bgcolor="#88E5DA">电路分<br>析基础<br>与实验◆<br>楚瑞<br>A133<br></td>  </tr><tr align=center>    <td class="td"><font size="3">2</font><br><font size="1">8:55<br>9:45</font> </td>  </tr><tr align=center>    <td class="td"><font size="3" >3</font><br><font size="1">10:15<br>11:05</font> </td>    <td class="td" rowspan="2" bgcolor="#88E5DA">电路分<br>析基础<br>与实验◆<br>楚瑞<br>A133<br></td>    <td class="td" rowspan="2" bgcolor="#88AADD">大学英<br>语C2◆<br>刘方<br>A718<br></td>    <td class="td" rowspan="2" bgcolor="#88E5DA">电路分<br>析基础<br>与实验◆<br>楚瑞<br>A133<br></td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#FFB677">高等数<br>学A2◆<br>陈诚<br>A133<br></td>  </tr><tr align=center>    <td class="td"><font size="3">4</font><br><font size="1">11:10<br>12:00</font> </td>  </tr><tr align=center>    <td class="td"><font size="3">5</font><br><font size="1">14:30<br>15:20</font> </td>    <td class="td" rowspan="2" bgcolor="#B2ED75">劳动教<br>育◆<br>郑增记<br>B101</td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#11AADD">大学体<br>育2◆<br>苏国庆<br></td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#B2ED75">思想道<br>德与法<br>治◆<br>刘晶芳<br>A133</td>  </tr><tr align=center>    <td class="td"><font size="3">6</font><br><font size="1">15:25<br>16:15</font> </td>  </tr><tr align=center>    <td class="td"><font size="3">7</font><br><font size="1">16:35<br>17:25</font> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>  </tr><tr align=center>    <td class="td"><font size="3">8</font><br><font size="1">17:30<br>18:20</font> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>  </tr><tr align=center>    <td class="td"><font size="3">9</font><br><font size="1">19:00<br>19:50</font> </td>    <td> </td>    <td> </td>    <td> </td>    <td class="td" rowspan="2" bgcolor="#D8D8D8">大学物<br>理实验◆<br>祁建霞<br>A621</td>    <td> </td>  </tr><tr align=center>    <td class="td"><font size="3">10</font><br><font size="1">20:00<br>20:50</font> </td>    <td> </td>    <td> </td>    <td> </td>    <td> </td>  </tr></table></body></html>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Wechat</title>
-      <link href="/info/wechat/index.html"/>
-      <url>/info/wechat/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的微信">如有需要，可以注明原因，添加笔者的微信:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/wechat.jpg" alt="WeChat"></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>QQ</title>
-      <link href="/info/qq/index.html"/>
-      <url>/info/qq/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="如有需要-可以注明原因-添加笔者的qq">如有需要，可以注明原因，添加笔者的QQ:</h1><p><img src="https://cdn.staticaly.com/gh/mico845/blog-cdn@main/img/qq.png" alt="QQ"></p>]]></content>
       
     </entry>
     
