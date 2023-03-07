@@ -6,7 +6,7 @@
   <link href="https://rich-blog.cn/atom.xml" rel="self"/>
   
   <link href="https://rich-blog.cn/"/>
-  <updated>2023-03-06T15:24:36.481Z</updated>
+  <updated>2023-03-07T15:11:22.726Z</updated>
   <id>https://rich-blog.cn/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>English</title>
+    <link href="https://rich-blog.cn/2023/03/06/Subject/English/English/"/>
+    <id>https://rich-blog.cn/2023/03/06/Subject/English/English/</id>
+    <published>2023-03-06T09:22:00.000Z</published>
+    <updated>2023-03-07T15:11:22.726Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="English" scheme="https://rich-blog.cn/categories/English/"/>
+    
+    
+    <category term="English" scheme="https://rich-blog.cn/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Physics</title>
     <link href="https://rich-blog.cn/2023/03/06/Subject/Physics/Physics/"/>
     <id>https://rich-blog.cn/2023/03/06/Subject/Physics/Physics/</id>
     <published>2023-03-06T09:22:00.000Z</published>
-    <updated>2023-03-06T15:24:36.481Z</updated>
+    <updated>2023-03-07T06:40:56.249Z</updated>
     
     
       
@@ -73,7 +98,7 @@
     <link href="https://rich-blog.cn/2023/02/27/Subject/Math/Advanced_Mathematics_II/"/>
     <id>https://rich-blog.cn/2023/02/27/Subject/Math/Advanced_Mathematics_II/</id>
     <published>2023-02-27T13:40:00.000Z</published>
-    <updated>2023-03-05T10:11:53.074Z</updated>
+    <updated>2023-03-07T06:40:51.833Z</updated>
     
     
       
@@ -99,7 +124,7 @@
     <link href="https://rich-blog.cn/2023/02/27/Subject/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/"/>
     <id>https://rich-blog.cn/2023/02/27/Subject/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/Fundamentals%20of%20Circuit%20Analysis%20and%20Experiment/</id>
     <published>2023-02-27T13:39:00.000Z</published>
-    <updated>2023-03-03T00:52:42.221Z</updated>
+    <updated>2023-03-07T14:48:55.594Z</updated>
     
     
       
@@ -337,11 +362,11 @@
     <category term="记录一次编程" scheme="https://rich-blog.cn/categories/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B/"/>
     
     
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
-    
     <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
     
     <category term="linux编程" scheme="https://rich-blog.cn/tags/linux%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
@@ -527,38 +552,6 @@
     
     
     <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ADC和DAC——跟我一起写STM32(第九期)</title>
-    <link href="https://rich-blog.cn/2023/01/17/STM32/ADC%E5%92%8CDAC%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B9%9D%E6%9C%9F)/"/>
-    <id>https://rich-blog.cn/2023/01/17/STM32/ADC%E5%92%8CDAC%E2%80%94%E2%80%94%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32(%E7%AC%AC%E4%B9%9D%E6%9C%9F)/</id>
-    <published>2023-01-17T11:20:41.000Z</published>
-    <updated>2023-02-26T04:02:40.219Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;11-adc&quot;&gt;11 ADC&lt;/h1&gt;
-&lt;p&gt;这里的ADC不是射手（雾），这里的ADC是Analog-to-Digital</summary>
-        
-      
-    
-    
-    
-    <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
-    
-    
-    <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
-    
-    <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
-    <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
