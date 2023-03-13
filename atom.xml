@@ -6,7 +6,7 @@
   <link href="https://rich-blog.cn/atom.xml" rel="self"/>
   
   <link href="https://rich-blog.cn/"/>
-  <updated>2023-03-11T07:09:01.742Z</updated>
+  <updated>2023-03-13T15:09:19.989Z</updated>
   <id>https://rich-blog.cn/</id>
   
   <author>
@@ -17,43 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Physics(持续更新中)</title>
-    <link href="https://rich-blog.cn/2023/03/06/Subject/Physics/Physics/"/>
-    <id>https://rich-blog.cn/2023/03/06/Subject/Physics/Physics/</id>
-    <published>2023-03-06T09:22:00.000Z</published>
-    <updated>2023-03-11T07:09:01.742Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;1-The-Kinematics-of-Mass-Points&quot;&gt;&lt;a href=&quot;#1-The-Kinematics-of-Mass-Points&quot; class=&quot;headerlink&quot; title=&quot;1 The Kinematics of Mass</summary>
-        
-      
-    
-    
-    
-    <category term="Physics" scheme="https://rich-blog.cn/categories/Physics/"/>
-    
-    
-    <category term="Physics" scheme="https://rich-blog.cn/tags/Physics/"/>
-    
-  </entry>
-  
-  <entry>
     <title>English(持续更新中)</title>
     <link href="https://rich-blog.cn/2023/03/06/Subject/English/English/"/>
     <id>https://rich-blog.cn/2023/03/06/Subject/English/English/</id>
     <published>2023-03-06T09:22:00.000Z</published>
-    <updated>2023-03-11T11:54:18.198Z</updated>
+    <updated>2023-03-13T15:09:19.989Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Translation&quot;&gt;&lt;a href=&quot;#Translation&quot; class=&quot;headerlink&quot; title=&quot;Translation&quot;&gt;&lt;/a&gt;Translation&lt;/h2&gt;&lt;h3 id=&quot;2023-3-1&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h2 id=&quot;translation&quot;&gt;Translation&lt;/h2&gt;
+&lt;h3</summary>
         
       
     
@@ -67,18 +43,45 @@
   </entry>
   
   <entry>
+    <title>Physics(持续更新中)</title>
+    <link href="https://rich-blog.cn/2023/03/06/Subject/Physics/Physics/"/>
+    <id>https://rich-blog.cn/2023/03/06/Subject/Physics/Physics/</id>
+    <published>2023-03-06T09:22:00.000Z</published>
+    <updated>2023-03-11T07:09:01.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-the-kinematics-of-mass-points&quot;&gt;1 The Kinematics of Mass Points&lt;/h2&gt;
+&lt;h3 id=&quot;1-1-reference-frames&quot;&gt;1.1 Reference</summary>
+        
+      
+    
+    
+    
+    <category term="Physics" scheme="https://rich-blog.cn/categories/Physics/"/>
+    
+    
+    <category term="Physics" scheme="https://rich-blog.cn/tags/Physics/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Advanced Mathematics II(持续更新中)</title>
     <link href="https://rich-blog.cn/2023/02/27/Subject/Math/Advanced_Mathematics_II/"/>
     <id>https://rich-blog.cn/2023/02/27/Subject/Math/Advanced_Mathematics_II/</id>
     <published>2023-02-27T13:40:00.000Z</published>
-    <updated>2023-03-12T07:49:59.251Z</updated>
+    <updated>2023-03-13T09:54:22.720Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;1-Vector-and-Solid-Analytic-Geometry&quot;&gt;&lt;a href=&quot;#1-Vector-and-Solid-Analytic-Geometry&quot; class=&quot;headerlink&quot; title=&quot;1 Vector and Solid</summary>
+    <summary type="html">&lt;h1 id=&quot;1-vector-and-solid-analytic-geometry&quot;&gt;1 Vector and Solid Analytic Geometry&lt;/h1&gt;
+&lt;h2 id=&quot;1-1-vectors-in-plane-and-in-space&quot;&gt;1.1</summary>
         
       
     
@@ -103,7 +106,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;1-Basic-Concepts&quot;&gt;&lt;a href=&quot;#1-Basic-Concepts&quot; class=&quot;headerlink&quot; title=&quot;1 Basic Concepts&quot;&gt;&lt;/a&gt;1 Basic Concepts&lt;/h2&gt;&lt;p&gt;Electric</summary>
+    <summary type="html">&lt;h2 id=&quot;1-basic-concepts&quot;&gt;1 Basic Concepts&lt;/h2&gt;
+&lt;p&gt;Electric circuit theory and electromagnetic theory are the two fundamental theories upon</summary>
         
       
     
@@ -128,7 +132,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;10-顺序容器&quot;&gt;&lt;a href=&quot;#10-顺序容器&quot; class=&quot;headerlink&quot; title=&quot;10 顺序容器&quot;&gt;&lt;/a&gt;10 顺序容器&lt;/h1&gt;&lt;p&gt;承接&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;10-顺序容器&quot;&gt;10 顺序容器&lt;/h1&gt;
+&lt;p&gt;承接&lt;a href=&quot;/2023/02/25/C++/cpp_10/&quot;&gt;顺序容器(上)——跟我一起从C到C++(第十期)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;10-4-管理迭代器&quot;&gt;10.4</summary>
         
       
     
@@ -153,7 +159,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;10-顺序容器&quot;&gt;&lt;a href=&quot;#10-顺序容器&quot; class=&quot;headerlink&quot; title=&quot;10 顺序容器&quot;&gt;&lt;/a&gt;10</summary>
+    <summary type="html">&lt;h1 id=&quot;10-顺序容器&quot;&gt;10 顺序容器&lt;/h1&gt;
+&lt;p&gt;一个容器就是一些特定类型对象的集合。顺序容器为程序员提供了控制元素存储和访问顺序的能力。这种顺序不依赖元素的值，而与元素加入容器的位置相对应。&lt;/p&gt;
+&lt;h2 id=&quot;10-1-顺序容器类型&quot;&gt;10.1</summary>
         
       
     
@@ -179,7 +187,6 @@
         
         
     <summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=yellow color=black&gt;Advanced Mathematics&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Final exam focus&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -209,7 +216,7 @@
         
         
     <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;一、问题背景&quot;&gt;&lt;a href=&quot;#一、问题背景&quot; class=&quot;headerlink&quot;</summary>
+&lt;h1</summary>
         
       
     
@@ -238,7 +245,7 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;一、问题背景&quot;&gt;&lt;a href=&quot;#一、问题背景&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1</summary>
         
       
     
@@ -267,7 +274,7 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;9-IO库&quot;&gt;&lt;a href=&quot;#9-IO库&quot; class=&quot;headerlink&quot; title=&quot;9 IO库&quot;&gt;&lt;/a&gt;9</summary>
+    <summary type="html">&lt;h1 id=&quot;9-io库&quot;&gt;9</summary>
         
       
     
@@ -292,7 +299,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;8-类&quot;&gt;&lt;a href=&quot;#8-类&quot; class=&quot;headerlink&quot; title=&quot;8 类&quot;&gt;&lt;/a&gt;8 类&lt;/h1&gt;&lt;p&gt;承接&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;8-类&quot;&gt;8 类&lt;/h1&gt;
+&lt;p&gt;承接&lt;a</summary>
         
       
     
@@ -318,7 +326,9 @@
         
         
     <summary type="html">&lt;p&gt;&lt;strong&gt;linux编程 实现ls -R的命令&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;关于C++语言的基础知识可以点开笔者主页专栏【跟我一起从C到C++】&lt;br&gt;使用到的知识点：&lt;br&gt;&lt;a</summary>
+&lt;p&gt;关于C++语言的基础知识可以点开笔者主页专栏【跟我一起从C到C++】&lt;br&gt;
+使用到的知识点：&lt;br&gt;
+&lt;a</summary>
         
       
     
@@ -327,11 +337,11 @@
     <category term="记录一次编程" scheme="https://rich-blog.cn/categories/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B/"/>
     
     
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
-    
     <category term="c++" scheme="https://rich-blog.cn/tags/c/"/>
     
     <category term="linux编程" scheme="https://rich-blog.cn/tags/linux%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
@@ -347,7 +357,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;8-类&quot;&gt;&lt;a href=&quot;#8-类&quot; class=&quot;headerlink&quot; title=&quot;8 类&quot;&gt;&lt;/a&gt;8 类&lt;/h1&gt;&lt;p&gt;承接&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;8-类&quot;&gt;8 类&lt;/h1&gt;
+&lt;p&gt;承接&lt;a</summary>
         
       
     
@@ -372,7 +383,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;8-类&quot;&gt;&lt;a href=&quot;#8-类&quot; class=&quot;headerlink&quot; title=&quot;8 类&quot;&gt;&lt;/a&gt;8 类&lt;/h1&gt;&lt;p&gt;类的基本思想是data</summary>
+    <summary type="html">&lt;h1 id=&quot;8-类&quot;&gt;8 类&lt;/h1&gt;
+&lt;p&gt;类的基本思想是data</summary>
         
       
     
@@ -397,7 +409,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;7-函数&quot;&gt;&lt;a href=&quot;#7-函数&quot; class=&quot;headerlink&quot; title=&quot;7 函数&quot;&gt;&lt;/a&gt;7 函数&lt;/h1&gt;&lt;p&gt;承接&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;7-函数&quot;&gt;7 函数&lt;/h1&gt;
+&lt;p&gt;承接&lt;a</summary>
         
       
     
@@ -422,8 +435,10 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;7-函数&quot;&gt;&lt;a href=&quot;#7-函数&quot; class=&quot;headerlink&quot; title=&quot;7 函数&quot;&gt;&lt;/a&gt;7 函数&lt;/h1&gt;&lt;p&gt;很多与C语言函数的基础知识相关的内容，笔者也不再赘述，这里主要聊聊C++的一些新的特性。&lt;/p&gt;
-&lt;h2</summary>
+    <summary type="html">&lt;h1 id=&quot;7-函数&quot;&gt;7 函数&lt;/h1&gt;
+&lt;p&gt;很多与C语言函数的基础知识相关的内容，笔者也不再赘述，这里主要聊聊C++的一些新的特性。&lt;/p&gt;
+&lt;h2 id=&quot;7-1-参数传递&quot;&gt;7.1 参数传递&lt;/h2&gt;
+&lt;h3 id=&quot;7-1-1-引用传递&quot;&gt;7.1.1</summary>
         
       
     
@@ -448,7 +463,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;5-表达式&quot;&gt;&lt;a href=&quot;#5-表达式&quot; class=&quot;headerlink&quot; title=&quot;5 表达式&quot;&gt;&lt;/a&gt;5 表达式&lt;/h1&gt;&lt;h2 id=&quot;5-1-运算符小知识&quot;&gt;&lt;a href=&quot;#5-1-运算符小知识&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;5-表达式&quot;&gt;5 表达式&lt;/h1&gt;
+&lt;h2 id=&quot;5-1-运算符小知识&quot;&gt;5.1 运算符小知识&lt;/h2&gt;
+&lt;h3 id=&quot;5-1-1-一-二-三元运算符&quot;&gt;5.1.1</summary>
         
       
     
@@ -473,7 +490,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;4-标准库类型&quot;&gt;&lt;a href=&quot;#4-标准库类型&quot; class=&quot;headerlink&quot; title=&quot;4 标准库类型&quot;&gt;&lt;/a&gt;4 标准库类型&lt;/h1&gt;&lt;h2 id=&quot;4-1-string&quot;&gt;&lt;a href=&quot;#4-1-string&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;4-标准库类型&quot;&gt;4 标准库类型&lt;/h1&gt;
+&lt;h2 id=&quot;4-1-string&quot;&gt;4.1 string&lt;/h2&gt;
+&lt;h3 id=&quot;4-1-1-命名空间&quot;&gt;4.1.1</summary>
         
       
     
@@ -498,7 +517,7 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1 前言&quot;&gt;&lt;/a&gt;1</summary>
+    <summary type="html">&lt;h1 id=&quot;1-前言&quot;&gt;1</summary>
         
       
     
@@ -523,7 +542,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;11-ADC&quot;&gt;&lt;a href=&quot;#11-ADC&quot; class=&quot;headerlink&quot; title=&quot;11 ADC&quot;&gt;&lt;/a&gt;11 ADC&lt;/h1&gt;&lt;p&gt;这里的ADC不是射手（雾），这里的ADC是Analog-to-Digital</summary>
+    <summary type="html">&lt;h1 id=&quot;11-adc&quot;&gt;11 ADC&lt;/h1&gt;
+&lt;p&gt;这里的ADC不是射手（雾），这里的ADC是Analog-to-Digital</summary>
         
       
     
@@ -532,11 +552,11 @@
     <category term="跟我一起写STM32" scheme="https://rich-blog.cn/categories/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99STM32/"/>
     
     
+    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
+    
     <category term="stm32" scheme="https://rich-blog.cn/tags/stm32/"/>
     
     <category term="嵌入式" scheme="https://rich-blog.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    <category term="c语言" scheme="https://rich-blog.cn/tags/c%E8%AF%AD%E8%A8%80/"/>
     
     <category term="单片机" scheme="https://rich-blog.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
